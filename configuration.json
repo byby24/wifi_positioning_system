@@ -1,0 +1,54 @@
+{
+  "baraks_living_room": {
+    "aps": {
+      "barak": {
+        "ssid": "barak",
+        "x": 0,
+        "y": 0,
+        "d0": 1,
+        "dbm_in_d0": -45
+      },
+      "barak2": {
+        "ssid": "barak2",
+        "x": 3,
+        "y": 0,
+        "d0": 1,
+        "dbm_in_d0": -50
+      },
+      "shira": {
+        "ssid": "shira",
+        "x": 0,
+        "y": 3,
+        "d0": 1,
+        "dbm_in_d0": -45
+      }
+    },
+    "path_loss": 3
+  },
+  "school": {
+    "aps": {
+      "router1": {
+        "ssid": "router1",
+        "x": 2,
+        "y": 7,
+        "d0": 1,
+        "dbm_in_d0": -35
+      },
+      "router2": {
+        "ssid": "router2",
+        "x": 0,
+        "y": 0,
+        "d0": 1,
+        "dbm_in_d0": -38
+      },
+      "router3": {
+        "ssid": "router3",
+        "x": 6,
+        "y": 0,
+        "d0": 1,
+        "dbm_in_d0": -25
+      }
+    },
+    "path_loss": 3
+  }
+}

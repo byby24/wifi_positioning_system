@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pipfile = "*"
+wifi = "*"
+Kivy = "*"
+generic = "*"
+matplotlib = "*"
+"kivy-garden.graph" = "*"
+sklearn = "*"
+sympy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
+
+[packages.412f841]
+file = "https://github.com/kivy-garden/graph/archive/master.zip"
