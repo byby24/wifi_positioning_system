@@ -4,14 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pipfile = "*"
 wifi = "*"
 Kivy = "*"
 generic = "*"
 matplotlib = "*"
 "kivy-garden.graph" = "*"
-sklearn = "*"
-sympy = "*"
 
 [dev-packages]
 
